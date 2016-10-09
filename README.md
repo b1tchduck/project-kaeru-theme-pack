@@ -22,4 +22,5 @@ This pack is for users who wish to create themes for Project Kaeru.
 - Edit images to your liking
 - ZIP it up and send to a developer.
 
+
 If accepted, you will be given an email with a certificate, with your UUID, the theme, etc.
