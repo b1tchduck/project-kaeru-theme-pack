@@ -1,12 +1,9 @@
 {
   "theme": {
     "name": "Default Green",
-    "desc": "This is the default green theme.",
     "price": 0,
-    "colour": "",
     "author": {
       "name": "Flipnote-Collective",
-      "website": "http://projectkaeru.xyz",
       "FSID": "04DB28BB4D2BD1D177"
     }
   }
