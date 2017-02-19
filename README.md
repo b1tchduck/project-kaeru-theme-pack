@@ -30,3 +30,5 @@ This pack is for users who wish to create themes for Project Kaeru.
 
 
 If accepted, you will be given an email with a certificate, with your UUID, the theme, etc.
+
+dankest
